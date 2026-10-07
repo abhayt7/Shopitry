@@ -1,4 +1,3 @@
-
 # ShopiTry: Full-Stack Microservices E-Commerce on AWS
 
 A decoupled microservices e-commerce platform: Node.js/Express services, MongoDB Atlas (database per service), two React (Vite) SPAs, and AWS deployment primitives (S3, CloudFront, EC2, Lambda).
